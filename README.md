@@ -28,11 +28,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-
-
-<img src='[http://i.imgur.com/link/to/your/gif/file.gif](https://github.com/LukeJas/TipCalculator/blob/main/TipCalculator.gif)' title='Video Walkthrough' width='' alt='Video Walkthrough' />
-
-
+![](https://github.com/LukeJas/TipCalculator/blob/main/TipCalculator.gif)
 
 ## Notes
 
